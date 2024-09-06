@@ -18,8 +18,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Clonez le repository du projet sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/gestion-commandes-express.git
-   cd gestion-commandes-express
+   git clone https://github.com/mariem2012/exo1-express.git
+   cd exo1-express
 
    ```
 
